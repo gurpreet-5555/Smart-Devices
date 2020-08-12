@@ -1,5 +1,5 @@
 # Smart-Devices
-Solution that enables IoT supported devices to "sense" human activity and turn on/off automatically. <br>Computer Vision &amp; Object Detection is used to detect human presence and trigger signal to IoT device for automatic operation.
+Solution that enables IoT supported devices to "see" human activity and turn on/off automatically. <br>Computer Vision &amp; Object Detection is used to detect human presence and trigger signal to IoT device for automatic operation.
 
 <br>
 
