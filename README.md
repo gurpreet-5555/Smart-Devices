@@ -47,7 +47,7 @@ There are a no. of object detection models to choose depending on the usecase. '
 <ul><li>Specify your code in <b>device_controller.py</b> to start and stop IoT powered device.</li>
 <pre>Sample code is included to turn on/off Philips Hue Lamps</pre></ul>
 <ul><li>Execute Program</li>
-<pre>python start_controller.py --confidence 0.4 --stream http://192.168.1.43:8080/video --startthreshold 10 --stopthreshold 60</pre>
+<pre>python start_detection.py --confidence 0.4 --stream http://192.168.1.43:8080/video --startthreshold 10 --stopthreshold 60</pre>
 <pre>Arguments -
 confidence : Confidence threshold for person detection. Default value is 0.2 (Optional)
 stream : Source of video feed (http, rtsp etc) or video file. (Required)
