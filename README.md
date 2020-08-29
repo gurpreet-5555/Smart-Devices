@@ -41,9 +41,9 @@ There are a no. of object detection models to choose depending on the usecase. '
 <h2>How to use?</h2>
 <ul>
   <li>Clone Repository</li>
-  <pre>https://github.com/gurpreet-5555/Intelligent-Devices.git</pre>  </ul>
+  <pre>git clone https://github.com/gurpreet-5555/Smart-Devices.git</pre>  </ul>
 <ul>  <li>Navigate to main directory</li>
-  <pre>cd Intelligent-Devices/main</pre> </ul>
+  <pre>cd Smart-Devices</pre> </ul>
 <ul><li>Specify your code in <b>device_controller.py</b> to start and stop IoT powered device.</li>
 <pre>Sample code is included to turn on/off Philips Hue Lamps</pre></ul>
 <ul><li>Execute Program</li>
